@@ -1,2 +1,4 @@
 entity.stikphg:spawnpoint.name=Spawnpoint
-entity.stikphg:spawnpoint.name=spawnpoint
+entity.stikphg:playerspawnpoint.name=playerspawnpoint
+entity.stikphg:survivorspawnpoint.name=survivorspawnpoint
+entity.stikphg:capturepoint.name=capturepoint

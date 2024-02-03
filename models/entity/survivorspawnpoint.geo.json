@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.survivorspawnpoint",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-6, 0, -6],
+							"size": [12, 8, 12],
+							"uv": {
+								"north": {"uv": [16, 53], "uv_size": [16, 11]},
+								"east": {"uv": [0, 53], "uv_size": [16, 11]},
+								"south": {"uv": [48, 53], "uv_size": [16, 11]},
+								"west": {"uv": [32, 53], "uv_size": [16, 11]},
+								"up": {"uv": [0, 0], "uv_size": [48, 48]},
+								"down": {"uv": [48, 52], "uv_size": [15, -15]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
