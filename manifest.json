@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"StikmanMann",
+			"CoderReal"
+		]
+	},
+	"header": {
+		"name": "Stiks PHG RP",
+		"description": "The ressource pack",
+		"min_engine_version": [
+			1,
+			20,
+			50
+		],
+		"uuid": "25bcb3ac-bdca-4a97-91cc-987db00dc3bb",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "620ecd7e-b4d0-4a8b-82a2-1aeb74a76a46",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
