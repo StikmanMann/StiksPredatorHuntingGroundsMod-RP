@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "stikphg:spawnpoint",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/spawnpoint"
+			},
+			"geometry": {
+				"default": "geometry.spawnpoint"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}
