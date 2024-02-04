@@ -10,7 +10,7 @@
 				"default": "textures/entity/survivor_spawnpoint"
 			},
 			"geometry": {
-				"default": "geometry.survivorspawnpoint"
+				"default": "geometry.entityGameLogic"
 			},
 			"render_controllers": ["controller.render.default"]
 		}

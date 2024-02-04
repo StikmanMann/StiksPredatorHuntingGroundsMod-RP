@@ -10,7 +10,7 @@
 				"default": "textures/entity/predator_spawnpoint"
 			},
 			"geometry": {
-				"default": "geometry.spawnpoint"
+				"default": "geometry.entityGameLogic"
 			},
 			"render_controllers": ["controller.render.default"]
 		}

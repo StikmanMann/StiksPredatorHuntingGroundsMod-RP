@@ -10,7 +10,7 @@
 				"default": "textures/entity/player_spawnpoint"
 			},
 			"geometry": {
-				"default": "geometry.playerspawnpoint"
+				"default": "geometry.entityGameLogic"
 			},
 			"render_controllers": ["controller.render.default"]
 		}

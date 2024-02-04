@@ -10,7 +10,7 @@
 				"default": "textures/entity/capturepoint"
 			},
 			"geometry": {
-				"default": "geometry.capturepoint"
+				"default": "geometry.entityGameLogic"
 			},
 			"render_controllers": ["controller.render.default"]
 		}
