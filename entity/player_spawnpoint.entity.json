@@ -2,15 +2,15 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "stikphg:survivorspawnpoint",
+			"identifier": "stikphg:player_spawnpoint",
 			"materials": {
 				"default": "entity_alphatest"
 			},
 			"textures": {
-				"default": "textures/entity/survivorspawnpoint"
+				"default": "textures/entity/player_spawnpoint"
 			},
 			"geometry": {
-				"default": "geometry.survivorspawnpoint"
+				"default": "geometry.playerspawnpoint"
 			},
 			"render_controllers": ["controller.render.default"]
 		}
