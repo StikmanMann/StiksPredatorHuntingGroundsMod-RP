@@ -2,12 +2,12 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "stikphg:extraction_point",
+			"identifier": "stikphg:extract_point",
 			"materials": {
 				"default": "entity_alphatest"
 			},
 			"textures": {
-				"default": "textures/entity/capture_point"
+				"default": "textures/entity/extract_point"
 			},
 			"geometry": {
 				"default": "geometry.entityGameLogic"
