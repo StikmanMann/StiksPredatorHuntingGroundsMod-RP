@@ -2,3 +2,6 @@ entity.stikphg:spawnpoint.name=Spawnpoint
 entity.stikphg:playerspawnpoint.name=playerspawnpoint
 entity.stikphg:survivorspawnpoint.name=survivorspawnpoint
 entity.stikphg:capturepoint.name=capturepoint
+item.myname:healing_syringe=Healing Syringe
+item.myname:healing_syringe=Healing Syringe
+item.myname:healing_syringe=Healing Syringe

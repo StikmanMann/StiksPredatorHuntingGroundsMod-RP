@@ -1,5 +1,11 @@
 {
+	"texture_data": {
+		"healing_syringe": {
+			"textures": {
+				"path": "textures/items/healing_syringe"
+			}
+		}
+	},
 	"resource_pack_name": "EntityMapping",
-	"texture_name": "atlas.items",
-	"texture_data": {}
+	"texture_name": "atlas.items"
 }
