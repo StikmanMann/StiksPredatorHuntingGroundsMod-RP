@@ -7,7 +7,7 @@
 				"default": "entity_alphatest"
 			},
 			"textures": {
-				"default": "textures/entity/extract_point"
+				"default": "textures/entity/fuse_spawn"
 			},
 			"geometry": {
 				"default": "geometry.entityGameLogic"
